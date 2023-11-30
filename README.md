@@ -7,7 +7,7 @@
 * I'm am currently learning full stack java development Course
 * Ask me about anything about related to java, Hibernate, SpringBoot and Sql.
 * How to reach me :zumakzodrachana@gmail.com
-* Linkdin Id :
+* Linkdin Id :https://www.linkedin.com/in/rachanazumakzod
 
 ### Technologies
 ----------------------------
