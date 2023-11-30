@@ -1,5 +1,4 @@
 ### Hi, I'm Rachana
----------------------------
 ###### I'm Rachana Zumakzod from Amravati, currently living in Pune, I'm a completed my master's degree in Computer Application  from Sant Gadge Baba AMravti University,Amravati
 
 ### Technologies
